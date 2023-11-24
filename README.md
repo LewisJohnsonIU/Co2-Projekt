@@ -1,3 +1,6 @@
+# Co2-Projekt
+Das Projekt wurde mittels des Befehls npx create-react-app initialisiert. Infolgedessen wurde ein Teil der Dokumente automatisch generiert und im weiteren Verlauf gemäß den spezifischen Anforderungen des Projekts modifiziert. Zusätzlich erfolgte die eigenständige Entwicklung weiterer Dokumente, die in ihrer Gesamtheit zu einer leistungsfähigen und gut funktionierenden Webanwendung führen.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
